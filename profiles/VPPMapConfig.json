@@ -1,0 +1,55 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "Svergino Trader",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                9583,
+                0,
+                13900
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Msta Trader",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                11232,
+                0,
+                5380
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "GM Trader",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                3694,
+                0,
+                5988
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }
+    ],
+    "m_CanUse3DMarkers": 1,
+    "m_OwnPositionMarkerDisabled": 0,
+    "m_ForceMapItemOnly": 0
+}

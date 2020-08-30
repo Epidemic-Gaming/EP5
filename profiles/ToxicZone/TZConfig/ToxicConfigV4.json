@@ -1,0 +1,533 @@
+{
+    "IsMsgActive": 1,
+    "IsDynZoneActive": 1,
+    "IsToxicZoneActive": 1,
+    "MsgEnterZone": "YOU ARE IN THE EPIDEMIC TOXIC ZONE!",
+    "MsgExitZone": "YOU LEFT THE EPIDEMIC TOXIC ZONE!",
+    "CheckNBC": 45000,
+    "CheckDynNBC": 60000,
+    "ToxicBloodLoss": 5,
+    "NbSickGiven": 34,
+    "SuitsDamage": 5,
+    "GP5DamageGrenade": 10,
+    "NbSickGivenforToxicSmoke": 51,
+    "IsCharcoalTabNeeded": 0,
+    "ToxicAreaLocation": [
+        {
+            "ToxicZoneStatut": "Skalisty",
+            "ContainerName": "ToxicCase",
+            "X": 13479,
+            "Y": 3297,
+            "Radius": 450,
+            "X1": -1,
+            "Y1": -1,
+            "X2": -1,
+            "Y2": -1,
+            "NumbCratePerTime": 2,
+            "MaxLoot": 8,
+            "IsSquareZone": 0,
+            "IsLootActive": 1,
+            "IsOnlyGasMask": 0,
+            "ToxicCratePosition": [
+                {
+                    "Name": "Army1",
+                    "POS": [
+                        13496.707031, 
+                        75.317574, 
+                        3305.428955
+                    ],
+                    "ORI": [
+                        -90,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "Name": "Army2",
+                    "POS": [
+                        13462.299805,
+                        104.948997,
+                        3321.370117
+                    ],
+                    "ORI": [
+                        -90,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "Name": "Army1",
+                    "POS": [
+                        13405.920898,
+                        82.382492,
+                        3282.432617
+                    ],
+                    "ORI": [
+                        50,
+                        0.386834,
+                        1.18161
+                    ]
+                },
+                {
+                    "Name": "Army2",
+                    "POS": [
+                        13420.299805,
+                        83.973396, 
+                        3356.709717
+                    ],
+                    "ORI": [
+                        -176,
+                        0,
+                        -9
+                    ]
+                }
+            ],
+            "ParticlesPosition": [
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        13446,
+                        0, 
+                        3318
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        13491, 
+                        0,
+                        3306
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        13427, 
+                        0,
+                        3290
+                    ]
+                }
+            ],
+            "CreatureList": [
+                {
+                    "CreatureName": "Animal_CanisLupus_Grey",
+                    "Max": 6
+                },
+                {
+                    "CreatureName": "Animal_UrsusArctos",
+                    "Max": 2
+                }
+            ]
+        },
+        {
+            "ToxicZoneStatut": "TZTisy",
+            "ContainerName": "ToxicCase",
+            "X": 1655,
+            "Y": 14068,
+            "Radius": 600,
+            "X1": -1,
+            "Y1": -1,
+            "X2": -1,
+            "Y2": -1,
+            "NumbCratePerTime": 2,
+            "MaxLoot": 8,
+            "IsSquareZone": 0,
+            "IsLootActive": 1,
+            "IsOnlyGasMask": 0,
+            "ToxicCratePosition": [
+                {
+                    "Name": "Army1",
+                    "POS": [
+                        1386.16,
+                        464.569,
+                        14422.1
+                    ],
+                    "ORI": [
+                        115,
+                        0,
+                        -0
+                    ]
+                },
+                {
+                    "Name": "Army2",
+                    "POS": [
+                        1380.56,
+                        464.444,
+                        14427.8
+                    ],
+                    "ORI": [
+                        115,
+                        0,
+                        -0
+                    ]
+                },
+                {
+                    "Name": "Army1",
+                    "POS": [
+                        1694.4,
+                        448.403,
+                        14210
+                    ],
+                    "ORI": [
+                        -108,
+                        0,
+                        -0
+                    ]
+                },
+                {
+                    "Name": "Army2",
+                    "POS": [
+                        1396.58,
+                        464.58,
+                        14450.6
+                    ],
+                    "ORI": [
+                        115,
+                        0,
+                        -0
+                    ]
+                },
+                {
+                    "Name": "Army1",
+                    "POS": [
+                        1390.25,
+                        464.569,
+                        14428.6
+                    ],
+                    "ORI": [
+                        115,
+                        0,
+                        -0
+                    ]
+                },
+                {
+                    "Name": "Army2",
+                    "POS": [
+                        1696.09,
+                        456.485,
+                        14179.1
+                    ],
+                    "ORI": [
+                        73,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "Name": "Army1",
+                    "POS": [
+                        1705.52,
+                        456.485,
+                        14167.8
+                    ],
+                    "ORI": [
+                        -110,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "Name": "Army2",
+                    "POS": [
+                        1705.13,
+                        452.415,
+                        14171.1
+                    ],
+                    "ORI": [
+                        -20,
+                        -3e-06,
+                        2e-06
+                    ]
+                },
+                {
+                    "Name": "Army1",
+                    "POS": [
+                        1534.48,
+                        452.701,
+                        14176.8
+                    ],
+                    "ORI": [
+                        111.493,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "Name": "Army2",
+                    "POS": [
+                        1674.71,
+                        445.625,
+                        13883.6
+                    ],
+                    "ORI": [
+                        -60,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "Name": "Army1",
+                    "POS": [
+                        1678.46,
+                        445.741,
+                        13823.8
+                    ],
+                    "ORI": [
+                        34,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "Name": "Army2",
+                    "POS": [
+                        1722.44,
+                        451.94,
+                        13721.4
+                    ],
+                    "ORI": [
+                        125,
+                        -0.005424,
+                        0.0047
+                    ]
+                },
+                {
+                    "Name": "Army1",
+                    "POS": [
+                        1896.77,
+                        448.958,
+                        13707.8
+                    ],
+                    "ORI": [
+                        -134,
+                        -0.083319,
+                        -0.042664
+                    ]
+                },
+                {
+                    "Name": "Army2",
+                    "POS": [
+                        1888.66,
+                        449.046,
+                        13704.1
+                    ],
+                    "ORI": [
+                        45,
+                        -0.031207,
+                        -0.014148
+                    ]
+                },
+                {
+                    "Name": "Army1",
+                    "POS": [
+                        1991.67,
+                        450.258,
+                        13825.1
+                    ],
+                    "ORI": [
+                        -180,
+                        -0.083759,
+                        0.079992
+                    ]
+                },
+                {
+                    "Name": "Army2",
+                    "POS": [
+                        1988.6,
+                        450.254,
+                        13817
+                    ],
+                    "ORI": [
+                        0,
+                        -0.002396,
+                        -0.006766
+                    ]
+                }
+            ],
+            "ParticlesPosition": [
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1647.65,
+                        451.73,
+                        14193.6
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1660.05,
+                        451.753,
+                        14362.3
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1811.86,
+                        449.522,
+                        14249.5
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1482.53,
+                        462.749,
+                        14415.7
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1558.28,
+                        452.77,
+                        14066.5
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1764.74,
+                        450.321,
+                        14057.1
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1721.75,
+                        445.441,
+                        13882.5
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1471.98,
+                        473.017,
+                        14243.7
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1647.9,
+                        451.227,
+                        13994
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1870.52,
+                        432.153,
+                        13778.7
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1740.96,
+                        433.674,
+                        13654.4
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1510.25,
+                        439.792,
+                        13603.6
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1402.81,
+                        449.133,
+                        13687.3
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1340.24,
+                        463.933,
+                        14049.6
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1264.25,
+                        462.462,
+                        14009.9
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1058.68,
+                        470.138,
+                        13907.3
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1635.71,
+                        443.326,
+                        13750.5
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1534.73,
+                        455.119,
+                        13780
+                    ]
+                },
+                {
+                    "NName": "GreenSmoke",
+                    "PPos": [
+                        1509.31,
+                        456.668,
+                        13892.9
+                    ]
+                }
+            ],
+            "CreatureList": [
+                {
+                    "CreatureName": "Animal_CanisLupus_Grey",
+                    "Max": 6
+                },
+                {
+                    "CreatureName": "Animal_UrsusArctos",
+                    "Max": 2
+                }
+            ]
+        }
+    ],
+    "DynToxicAreaLocation": [
+        {
+            "DynToxicZoneStatut": "PrisonToOstry",
+            "StartX": 2600,
+            "StartY": 1300,
+            "EndX": 10950,
+            "EndY": 13400,
+            "Radius": 300,
+            "Coeff": 0.611907,
+            "YtoOrigin": 3776.19,
+            "Chance": 0.25,
+            "Speed": 30,
+            "norme": 6379,
+            "IsOnlyGasMask": 1,
+            "ParticleName": "GreenSmokeLong"
+        }
+    ],
+    "AdminUID": [
+        ""
+    ]
+}
