@@ -185,7 +185,7 @@
 		PurificationTablets,	*,		5,		2
 		Pot,					M,		25,		10
 		Tripod,					*,		35,		15
-		BearTrap,				*,		50,		30
+		BearTrap,				*,		10000,		1000
 	
 	<Category> Hardware Supplies
 		CodeLock,				*,		30000,	5000
@@ -307,6 +307,7 @@
 		GardenLime,				*,		1000,	700
 
 	<Category> Cannabis
+		CP_RollingPapers,						*, 		100,		50
         CigarettePack_Chernamorka,          	*,		900,		450
         CigarettePack_Merkur,              		*,		900,		450
         CigarettePack_Partyzanka,              	*,		900,		450
@@ -442,7 +443,6 @@
 		NailedBaseballBat,		W,		45,		20
         guitar_mung,            W,      200,    100
         bowieknife_mung,		W,		200,	100	
-        shovel_Mung,            W,      400,    200
         Vesuri_mung,            W,      100,    50
         Clawhammer_mung,        W,      200,    100
 		PirulinAxe,			W,		500,	250
@@ -481,6 +481,7 @@
 		MassSVT40,				W,		7500,	5000
 		MassSVT40_Black,		W,		7500,	5000
 		MassSVT40_Green,		W,		7500,   5000
+		Hell_M14EBR,			W,		8000,	6000
 		
 	<Category> Bolt Action Rifle's
 		A2M24_Green,			W,		6000,	4000
@@ -497,7 +498,7 @@
 		Mp133Shotgun,			W,		500,	250
 		Izh43Shotgun,			W,		900,	400
 		Saiga,					W,		1500,	600
-		Hell_Supernova			W,		2000,	1000
+		Hell_Supernova,			W,		2000,	1000
 		
 	<Category> Submachine Guns
 		A2HKM5_SD,				W,		3000,	1750
@@ -1033,6 +1034,7 @@
 		mag_psig550_30rnd,		30,		500,	250
 		Hell_Mag_HoneyBadger_30Rnd, 	30,	500,	250
 		Hell_Mag_HoneyBadger_BattleScars_30Rnd, 	 30,		500,	250
+		Hell_Mag_KAC_PDW_30Rnd,	30,		500,	250
 		FP4_Mag_Groza_20Rnd,	20,		500,	250
 		Mag_AK74_30Rnd,			30,		500,	250
 		Mag_AKM_Drum75Rnd,		75,		1000,	500
@@ -1062,6 +1064,7 @@
 		Mag_SV98_10Rnd,			10,		1000,	500
 		Mag_SVD_10Rnd,			10,		1000,	500
 		Mag_SVT_10Rnd,			10,		1000,	500
+		Hell_Mag_M14EBR_20Rnd,	20,		2000,	1000
 
 
 	<Category> Optics
@@ -1155,6 +1158,7 @@
 		LTK_AB_Redsplatter,		*,		250,		125
 		TSF_AB,					*,		250,		125
 		RSA_AB,					*,		250,		125
+		BT_AB,					*,		250,		125
 
 	<Category> LtK Clothing
 		LtK_BDU_Jacket,					*,		500,	250
@@ -1167,6 +1171,9 @@
 		FNF_Stalker_Pants,			*, 500, 250
 		BlackPlateCarrierFNF,		*,	5000,	800
 
+	<Category> Bluedemon Clothing
+		Blue_Tiger_Shirt,	*,	500, 250
+		Blue_Tiger_Pants,	*,	500, 250
 
 	<Category> Gloves
 		SurgicalGloves_LightBlue,*,		5,		1
@@ -1302,6 +1309,7 @@
         PMK_5A_Gas_Mask,		*,		500,	75	
         FP4_setka,				*,		400,	200	
 		FP4_BanditMask_black,	*,		100,	50
+		MSFCVenomMask,			*,		250,	125
 
 	<Category> Shirts
 		TShirt_OrangeWhiteStripes,*,	8,		2
