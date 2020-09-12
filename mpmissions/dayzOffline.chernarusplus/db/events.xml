@@ -731,6 +731,7 @@
             <child lootmax="0" lootmin="0" max="0" min="0" type="SmallStone"/>
         </children>
     </event>
+    <!--
     <event name="VehicleCivilianSedan">
         <nominal>10</nominal>
         <min>7</min>
@@ -807,6 +808,7 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Red"/>
         </children>
     </event>
+    -->
 
 
 

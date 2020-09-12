@@ -1,0 +1,25 @@
+{
+    "SafeZones": [
+        {
+            "Title": "Green Mountain",
+            "Message": "Airdrops cannot be dispatched to your current location ... Airdrop cancelled!",
+            "X": 3703,
+            "Z": 5988,
+            "Radius": 500
+        },
+        {
+            "Title": "Svergino",
+            "Message": "Airdrops cannot be dispatched to your current location ... Airdrop cancelled!",
+            "X": 9583,
+            "Z": 13900,
+            "Radius": 500
+        },
+        {
+            "Title": "Msta",
+            "Message": "Airdrops cannot be dispatched to your current location ... Airdrop cancelled!",
+            "X": 11232,
+            "Z": 5380,
+            "Radius": 500
+        }
+    ]
+}

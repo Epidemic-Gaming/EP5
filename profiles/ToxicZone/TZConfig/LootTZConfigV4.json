@@ -73,7 +73,7 @@
                 },
                 {
                     "LootName": "SR25_Green",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": [
                         {
                             "AttachName": "SR25_Magazine",
@@ -116,46 +116,74 @@
                     ]
                 },
                 {
-                    "LootName": "M200",
+                    "LootName": "A2M107",
                     "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": [
                         {
-                            "AttachName": "m200_Magazine",
-                            "ProbAttachToSpawn": 0.8
+                            "AttachName": "A2M107_Magazine",
+                            "ProbAttachToSpawn": 1.0
                         },
                         {
-                            "AttachName": "m200_Magazine",
+                            "AttachName": "A2M107_Magazine",
                             "ProbAttachToSpawn": 0.5
                         },
                         {
                             "AttachName": "HuntingOptic",
+                            "ProbAttachToSpawn": 1.0
+                        }
+                    ]
+                },
+                {
+                    "LootName": "MassM110",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "Mass308STANAG",
+                            "ProbAttachToSpawn": 1.0
+                        },
+                        {
+                            "AttachName": "MassSuppressor308",
                             "ProbAttachToSpawn": 1.0
                         },
                         {
                             "AttachName": "ACOGOptic",
-                            "ProbAttachToSpawn": 0.6
+                            "ProbAttachToSpawn": 1.0
                         }
                     ]
                 },
                 {
-                    "LootName": "m300_cheytac",
+                    "LootName": "A2M14_DMR",
                     "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": [
                         {
-                            "AttachName": "Mag_M300_7rnds",
-                            "ProbAttachToSpawn": 0.8
+                            "AttachName": "A2M14_DMRMAG",
+                            "ProbAttachToSpawn": 1.0
                         },
                         {
-                            "AttachName": "Mag_M300_7rnds",
-                            "ProbAttachToSpawn": 0.5
+                            "AttachName": "DMRScope",
+                            "ProbAttachToSpawn": 1.0
+                        },
+                        {
+                            "AttachName": "AK_Suppressor",
+                            "ProbAttachToSpawn": 1.0
+                        }
+                    ]
+                },
+                {
+                    "LootName": "A2WM110_black",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "A2WM110_mag",
+                            "ProbAttachToSpawn": 1.0
                         },
                         {
                             "AttachName": "HuntingOptic",
                             "ProbAttachToSpawn": 1.0
                         },
                         {
-                            "AttachName": "MassScope",
-                            "ProbAttachToSpawn": 0.6
+                            "AttachName": "M4_Suppressor",
+                            "ProbAttachToSpawn": 1.0
                         }
                     ]
                 },
@@ -166,31 +194,31 @@
                 },
                 {
                     "LootName": "ToxicCure",
-                    "ProbToSpawn": 0.9,
-                    "AttachmentsToLoot": []
-                },
-                {
-                    "LootName": "RaidHacksaw",
-                    "ProbToSpawn": 0.7,
-                    "AttachmentsToLoot": []
-                },
-                {
-                    "LootName": "RaidSledgeHammer",
-                    "ProbToSpawn": 0.6,
-                    "AttachmentsToLoot": []
-                },
-                {
-                    "LootName": "RaidLockpick",
-                    "ProbToSpawn": 0.8,
-                    "AttachmentsToLoot": []
-                },
-                {
-                    "LootName": "AmmoBox_408Chey",
                     "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
-                    "LootName": "AmmoBox_408Chey",
+                    "LootName": "RaidHacksaw",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "RaidSledgeHammer",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "RaidLockpick",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_50Cal",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_50Cal",
                     "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
@@ -206,17 +234,17 @@
                 },
                 {
                     "LootName": "AmmoBox_556x45_20Rnd",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "AmmoBox_762x39_20Rnd",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "AmmoBox_762x54_20Rnd",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
@@ -226,17 +254,17 @@
                 },
                 {
                     "LootName": "CP_CannabisBrickBlue",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "CP_CannabisBrickKush",
-                    "ProbToSpawn": 0.5,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "CP_CannabisBrickStardawg",
-                    "ProbToSpawn": 0.4,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
@@ -246,17 +274,42 @@
                 },
                 {
                     "LootName": "CP_CannabisSeedsPackBlue",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "CP_CannabisSeedsPackKush",
-                    "ProbToSpawn": 0.5,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "CP_CannabisSeedsPackStardawg",
-                    "ProbToSpawn": 0.4,
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "MassScope",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "MassHeavyPlateVest_Black",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "MassHeavyPlateVest_ODG",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "MassHeavyPlateVest_Black",
+                    "ProbToSpawn": 0.8,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "MassHeavyPlateVest_ODG",
+                    "ProbToSpawn": 0.8,
                     "AttachmentsToLoot": []
                 }
             ]
@@ -278,21 +331,39 @@
                         },
                         {
                             "AttachName": "Mag_FAL_20Rnd",
-                            "ProbAttachToSpawn": 0.6
+                            "ProbAttachToSpawn": 1.0
                         },
                         {
                             "AttachName": "ACOGOptic",
-                            "ProbAttachToSpawn": 0.5
+                            "ProbAttachToSpawn": 1.0
+                        }
+                    ]
+                },
+                {
+                    "LootName": "MassM110",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "Mass308STANAG",
+                            "ProbAttachToSpawn": 1.0
+                        },
+                        {
+                            "AttachName": "MassSuppressor308",
+                            "ProbAttachToSpawn": 1.0
+                        },
+                        {
+                            "AttachName": "ACOGOptic",
+                            "ProbAttachToSpawn": 1.0
                         }
                     ]
                 },
                 {
                     "LootName": "A2WM110_black",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": [
                         {
                             "AttachName": "A2WM110_mag",
-                            "ProbAttachToSpawn": 0.8
+                            "ProbAttachToSpawn": 1.0
                         },
                         {
                             "AttachName": "HuntingOptic",
@@ -300,7 +371,43 @@
                         },
                         {
                             "AttachName": "M4_Suppressor",
+                            "ProbAttachToSpawn": 1.0
+                        }
+                    ]
+                },
+                {
+                    "LootName": "A2M107",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "A2M107_Magazine",
+                            "ProbAttachToSpawn": 1.0
+                        },
+                        {
+                            "AttachName": "A2M107_Magazine",
                             "ProbAttachToSpawn": 0.5
+                        },
+                        {
+                            "AttachName": "HuntingOptic",
+                            "ProbAttachToSpawn": 1.0
+                        }
+                    ]
+                },
+                {
+                    "LootName": "A2M14_DMR",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "A2M14_DMRMAG",
+                            "ProbAttachToSpawn": 1.0
+                        },
+                        {
+                            "AttachName": "DMRScope",
+                            "ProbAttachToSpawn": 1.0
+                        },
+                        {
+                            "AttachName": "AK_Suppressor",
+                            "ProbAttachToSpawn": 1.0
                         }
                     ]
                 },
@@ -311,31 +418,31 @@
                 },
                 {
                     "LootName": "ToxicCure",
-                    "ProbToSpawn": 0.9,
-                    "AttachmentsToLoot": []
-                },
-                {
-                    "LootName": "RaidHacksaw",
-                    "ProbToSpawn": 0.7,
-                    "AttachmentsToLoot": []
-                },
-                {
-                    "LootName": "RaidSledgeHammer",
-                    "ProbToSpawn": 0.6,
-                    "AttachmentsToLoot": []
-                },
-                {
-                    "LootName": "RaidLockpick",
-                    "ProbToSpawn": 0.8,
-                    "AttachmentsToLoot": []
-                },
-                {
-                    "LootName": "AmmoBox_408Chey",
                     "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
-                    "LootName": "AmmoBox_408Chey",
+                    "LootName": "RaidHacksaw",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "RaidSledgeHammer",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "RaidLockpick",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_508Cal",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_50Cal",
                     "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
@@ -351,17 +458,17 @@
                 },
                 {
                     "LootName": "AmmoBox_556x45_20Rnd",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "AmmoBox_762x39_20Rnd",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "AmmoBox_762x54_20Rnd",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
@@ -371,17 +478,17 @@
                 },
                 {
                     "LootName": "CP_CannabisBrickBlue",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "CP_CannabisBrickKush",
-                    "ProbToSpawn": 0.5,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "CP_CannabisBrickStardawg",
-                    "ProbToSpawn": 0.4,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
@@ -391,17 +498,37 @@
                 },
                 {
                     "LootName": "CP_CannabisSeedsPackBlue",
-                    "ProbToSpawn": 0.8,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "CP_CannabisSeedsPackKush",
-                    "ProbToSpawn": 0.5,
+                    "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
                 },
                 {
                     "LootName": "CP_CannabisSeedsPackStardawg",
-                    "ProbToSpawn": 0.4,
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "MassHeavyPlateVest_Black",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "MassHeavyPlateVest_ODG",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "MassHeavyPlateVest_Black",
+                    "ProbToSpawn": 0.8,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "MassHeavyPlateVest_ODG",
+                    "ProbToSpawn": 0.8,
                     "AttachmentsToLoot": []
                 }
             ]

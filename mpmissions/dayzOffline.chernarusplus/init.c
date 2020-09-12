@@ -3,13 +3,41 @@
 void main()
 {
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
+	/* old weather
 	Weather weather = g_Game.GetWeather();
 
 	weather.MissionWeather(false);    // false = use weather controller from Weather.c
 
-	weather.GetOvercast().Set( Math.RandomFloatInclusive(0.2, 0.4), 1, 0);
-	weather.GetRain().Set(0, 0, 0);
-	weather.GetFog().Set( Math.RandomFloatInclusive(0.02, 0.1), 1, 0);
+    weather.GetOvercast().SetLimits( 0.0 , 0.5 );
+    weather.GetOvercast().SetForecastChangeLimits( 0.0, 0.2 );
+    weather.GetOvercast().SetForecastTimeLimits( 1800 , 1800 );
+
+    weather.GetOvercast().Set( Math.RandomFloatInclusive(0.0, 0.3), 0, 0);
+    weather.GetRain().Set( Math.RandomFloatInclusive(0.0, 0.2), 0, 0);
+    weather.GetFog().Set( Math.RandomFloatInclusive(0.05, 0.1), 1, 0);
+	*/ 
+
+	// less rain
+	Weather weather = g_Game.GetWeather();
+
+    weather.GetOvercast().SetLimits(0.0, 0.0);
+    weather.GetRain().SetLimits(0.0, 0.0);
+    weather.GetFog().SetLimits(0.0, 0.0);
+
+    weather.GetOvercast().SetForecastChangeLimits(0.0, 0.0);
+    weather.GetRain().SetForecastChangeLimits(0.0, 0.0);
+    weather.GetFog().SetForecastChangeLimits(0.0, 0.0);
+
+    weather.GetOvercast().SetForecastTimeLimits(0, 0);
+    weather.GetRain().SetForecastTimeLimits(0,0);
+    weather.GetFog().SetForecastTimeLimits(0,0);
+
+    weather.GetOvercast().Set(Math.RandomFloatInclusive(0.0, 0.0), 0, 0);
+    weather.GetRain().Set(Math.RandomFloatInclusive(0.0, 0.0), 0, 0);
+    weather.GetFog().Set(Math.RandomFloatInclusive(0.0, 0.0), 0, 0);
+
+    weather.SetWindMaximumSpeed(0);
+    weather.SetWindFunctionParams(0, 0, 0);
 
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();

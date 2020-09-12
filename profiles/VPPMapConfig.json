@@ -47,6 +47,38 @@
             ],
             "M_ISACTIVE": 1,
             "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Skalisty Island Bridge",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                13011,
+                0,
+                2816
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Prison Island Bridge",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                2788,
+                0,
+                1954
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
         }
     ],
     "m_CanUse3DMarkers": 1,

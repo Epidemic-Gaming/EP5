@@ -1,0 +1,240 @@
+{
+    "MessageType": "custom",
+    "UseCustomLogs": 1,
+    "AnnouncePvEHitsOnlyToTheHitPlayer": 1,
+    "ChatColorClass": "GREEN",
+    "PVPMeleeKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "KillerInfo beat the breaks off VictimInfo in Melee combat."
+    },
+    "PVPMeleeWeaponKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "KillerInfo beat the breaks off VictimInfo with WeaponName."
+    },
+    "PVPRangedKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "KillerInfo gurxt VictimInfo with WeaponName [KillRangem]."
+    },
+    "TrapKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo stepped on a WeaponName laid by KillerInfo and got gurxt."
+    },
+    "ExplosiveKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo was blow-gurxt by KillerInfo's WeaponName."
+    },
+    "BarbedWireKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo was cut deep by barbed wire on a KillerInfo."
+    },
+    "ZVPKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo was kerflopped by the Infected."
+    },
+    "AVPKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo was kerflopped by the Wildlife."
+    },
+    "FallKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo kerflopped from a fall like a noob, get gurxt."
+    },
+    "VehicleKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "KillerInfo killed VictimInfo while driving VehicleName."
+    },
+    "SicknessKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo died to Sickness."
+    },
+    "StarvationKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo died due to Starvation."
+    },
+    "DehydrationKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo died due to Dehydration."
+    },
+    "SuicideKill": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo died from suicide."
+    },
+    "BleedOutZVP": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo bled out from cuts by the InfecteD."
+    },
+    "BleedOutAVP": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo bled out from cuts by the Wildlife."
+    },
+    "BleedOutPVPUnarmed": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo bled out from KillerInfo's fists."
+    },
+    "BleedOutPVPWeapon": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo bled out from KillerInfo's WeaponName."
+    },
+    "BleedOutTrap": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo bled out from KillerInfo's trap: WeaponName."
+    },
+    "BleedOutExplosive": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo bled out from KillerInfo's WeaponName exploding."
+    },
+    "BleedOutBarbedWire": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo bled out from deep barbed wire cuts from a KillerInfo."
+    },
+    "BleedOutLoginBleeding": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo woke with open wounds and bled out."
+    },
+    "PVPMeleeHits": {
+        "ShowFeed": 0,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "KillerInfo attacked VictimInfo in Melee combat."
+    },
+    "PVPMeleeWeaponHits": {
+        "ShowFeed": 0,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "KillerInfo attacked VictimInfo with WeaponName."
+    },
+    "PVPRangedHits": {
+        "ShowFeed": 0,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "KillerInfo attacked VictimInfo with WeaponName [KillRangem]."
+    },
+    "TrapHits": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo was injured by stepping on KillerInfo's WeaponName."
+    },
+    "ExplosiveHits": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo was injured by KillerInfo's WeaponName."
+    },
+    "BarbedWireHits": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo was caught up in barbed wire from a KillerInfo."
+    },
+    "ZVPHits": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo was attacked by the Infected."
+    },
+    "AVPHits": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo was attacked by the Wildlife."
+    },
+    "FallHits": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo fell hard and survived."
+    },
+    "VehicleHits": {
+        "ShowFeed": 1,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "KillerInfo hit VictimInfo while driving VehicleName."
+    },
+    "Error1": {
+        "ShowFeed": 0,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo died with stats unable to be fetched."
+    },
+    "Error2": {
+        "ShowFeed": 0,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo killed by KillerInfo."
+    },
+    "Error3": {
+        "ShowFeed": 0,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "Player/Object does not exist."
+    },
+    "Error4": {
+        "ShowFeed": 0,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo killed themselves in Melee somehow."
+    },
+    "Error5": {
+        "ShowFeed": 0,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo was hit by KillerInfo (Not Caught)."
+    },
+    "Error6": {
+        "ShowFeed": 0,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo was damaged by KillerInfo with WeaponName."
+    },
+    "Error7": {
+        "ShowFeed": 0,
+        "LogFeed": 1,
+        "Color": "GREEN",
+        "Message": "VictimInfo bled out due to damage from KillerInfo with WeaponName."
+    }
+}

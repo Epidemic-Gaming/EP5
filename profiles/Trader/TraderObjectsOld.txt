@@ -7,8 +7,7 @@
 // Weapon supplies 3
 // Clothing 4
 // Vehicle 5
-// Black market NWAf 6
-// Black market NEAF 7
+// Black market 6
 
 // Green Mountain:
 
@@ -40,77 +39,72 @@
 
 
 // Msta
-
+  Food trader:              X=11231     Z=253.88    Y=5373.2    Yaw=-171
+    Clothing Trader:          X=11223     Z=254.33    Y=5374.4    Yaw=-167
+    Construction Trader:      X=11235     Z=253.28    Y=5386.6    Yaw=4
+    Gun Trader:               X=11228     Z=253.42    Y=5384.4    Yaw=4
+    Ammo Trader:              X=11230     Z=253.34    Y=5387.2    Yaw=4
+    Car Trader:               X=11241     Z=253.17    Y=5371.1    Yaw=-
 <TraderMarker>          0
 <TraderMarkerPosition>  11231,     253.88,    5373.2
 <TraderMarkerSafezone>  400
 
 <TraderMarker>          1
-<TraderMarkerPosition>  11235,     253.28,    5386.6
+<TraderMarkerPosition>  11235     253.28    5386.6 
 <TraderMarkerSafezone>  400
 
 
 <TraderMarker>          2
-<TraderMarkerPosition>  11227,     253.45,    5387.6
+<TraderMarkerPosition>  11228     253.42    5384.4
 <TraderMarkerSafezone>  400
 
 
 <TraderMarker>          3
-<TraderMarkerPosition>  11230,       253.34,    5387.2
+<TraderMarkerPosition>  11230       253.34    5387.2
 <TraderMarkerSafezone>  400
 
 <TraderMarker>          4
-<TraderMarkerPosition>  11223.733398, 254.375381, 5374.338867
+<TraderMarkerPosition>  11223     254.33    5374.4
 <TraderMarkerSafezone>  400
 
 <TraderMarker>          5
-<TraderMarkerPosition>  11240.849609, 253.841965, 5365.811523
-<TraderMarkerSafezone> 400
-<VehicleSpawn>			11240.236328, 253.716675, 5374.257813
-<VehicleSpawnOri>		0,		0,			0
+<TraderMarkerPosition>  11241     253.17    5371.1
+<TraderMarkerSafezone>  400
 
 // Svergino
 
 <TraderMarker>          0
-<TraderMarkerPosition>  9568.4,    96.476,    13904
+<TraderMarkerPosition>  9568.4    96.476    13904
 <TraderMarkerSafezone>  400
 
 <TraderMarker>          1
-<TraderMarkerPosition>  9579.8,    96.694,    13908
+<TraderMarkerPosition>  9579.8    96.694    13908
 <TraderMarkerSafezone>  400
 
 
 <TraderMarker>          2
-<TraderMarkerPosition>  9595.4,    96.389,    13906
+<TraderMarkerPosition>  9595.4    96.389    13906
 <TraderMarkerSafezone>  400
 
 
 <TraderMarker>          3
-<TraderMarkerPosition>  9596.2,    96.389,    13904
+<TraderMarkerPosition>  9596.2    96.389    13904 
 <TraderMarkerSafezone>  400
 
 <TraderMarker>          4
-<TraderMarkerPosition>  9574.4,    96.478,    13906
+<TraderMarkerPosition>  9574.4    96.478    13906
 <TraderMarkerSafezone>  400
 
 <TraderMarker>          5
-<TraderMarkerPosition>  9600.986328, 94.167572, 13914.696289
+<TraderMarkerPosition>  11241     253.17    5371.1
 <TraderMarkerSafezone>  400
-<VehicleSpawn>  9603.538086, 93.944328, 13907.023438
-<VehicleSpawnOri>  185,  0   0
+
 
 // Black Market NWAF
 
 <TraderMarker>      6
 <TraderMarkerPosition> 4616.609863, 343.010986, 10149.099609
 <TraderMarkerSafezone> 0
-
-// Black Market NEAF
-
-<TraderMarker>      7
-<TraderMarkerPosition> 12073.498047, 147.302124, 12617.390625
-<TraderMarkerSafezone> 0
-
 
 
 
@@ -260,7 +254,7 @@
 // Msta
 <Object> 			SurvivorF_Irena						
 <ObjectPosition>	11231,     253.88,    5373.2
-<ObjectOrientation>	0, 0,			0						
+<ObjectOrientation>	-171, 0,			0						
 <ObjectAttachment>	BoxCerealCrunchin					
 <ObjectAttachment>	SurgicalGloves_White
 <ObjectAttachment>	Bandana_Polkapattern
@@ -268,8 +262,8 @@
 <ObjectAttachment>	DressShoes_White
 
 <Object> 			SurvivorF_Keiko
-<ObjectPosition>	11235,     253.28,    5386.6
-<ObjectOrientation>	180,  0,			0
+<ObjectPosition>	11235     253.28    5386.6 
+<ObjectOrientation>	4,  0,			0
 <ObjectAttachment>	Wrench
 <ObjectAttachment>	SledgeHammer
 <ObjectAttachment>	WorkingGloves_Brown
@@ -279,8 +273,8 @@
 <ObjectAttachment>	WorkingBoots_Grey
 
 <Object> 			SurvivorM_Seth
-<ObjectPosition>	11227,     253.45,    5387.6
-<ObjectOrientation>	180,  0,			0
+<ObjectPosition>	11228     253.42    5384.4
+<ObjectOrientation>	4,  0,			0
 <ObjectAttachment>	FirefighterAxe
 <ObjectAttachment>	SVD
 <ObjectAttachment>	PSO1Optic
@@ -299,8 +293,8 @@
 <ObjectAttachment>	AliceBag_Camo
 
 <Object> 			SurvivorM_Taiki
-<ObjectPosition>	11230,     253.34,    5387.2
-<ObjectOrientation>	180, 0,			0
+<ObjectPosition>	11230     253.34    5387.2
+<ObjectOrientation>	4, 0,			0
 <ObjectAttachment>	Mag_STANAG_30Rnd
 <ObjectAttachment>	SportGlasses_Orange
 <ObjectAttachment>	BaseballCap_Camo
@@ -311,16 +305,16 @@
 <ObjectAttachment>	AssaultBag_Ttsko
 
 <Object> 			SurvivorF_Frida
-<ObjectPosition>	11223.733398, 254.375381, 5374.338867
-<ObjectOrientation> 0,   0,			0
+<ObjectPosition>	11223     254.33    5374.4
+<ObjectOrientation> -167,   0,			0
 <ObjectAttachment>	ThickFramesGlasses
 <ObjectAttachment>	WomanSuit_Black
 <ObjectAttachment>	SlacksPants_Black
 <ObjectAttachment>	DressShoes_Black
 
 <Object> 			SurvivorM_Peter
-<ObjectPosition>    11240.849609, 253.841965, 5365.811523
-<ObjectOrientation>	0,     0,			0
+<ObjectPosition>    11241     253.17    5371.1
+<ObjectOrientation>	-83,     0,			0
 <ObjectAttachment>	LugWrench
 <ObjectAttachment>	WorkingGloves_Black
 <ObjectAttachment>	ReflexVest
@@ -329,10 +323,15 @@
 <ObjectAttachment>	HikingBootsLow_Blue
 
 // Svergino
-
+    Food trader:              X=9568.4    Z=96.476    Y=13904     Yaw=-23
+    Clothing Trader:          X=9574.4    Z=96.478    Y=13906     Yaw=-23
+    Construction Trader:      X=9579.8    Z=96.694    Y=13908     Yaw=-23
+    Gun Trader:               X=9595.4    Z=96.389    Y=13906     Yaw=70
+    Ammo Trader:              X=9596.2    Z=96.389    Y=13904     Yaw=70
+    Car Trader:               X=9598.3    Z=93.989    Y=13898     Yaw=-20
 <Object> 			SurvivorF_Irena						
-<ObjectPosition>	9568.4,    96.476,    13904
-<ObjectOrientation>	180, 0,			0						
+<ObjectPosition>	9568.4    96.476    13904
+<ObjectOrientation>	-23, 0,			0						
 <ObjectAttachment>	BoxCerealCrunchin					
 <ObjectAttachment>	SurgicalGloves_White
 <ObjectAttachment>	Bandana_Polkapattern
@@ -340,8 +339,8 @@
 <ObjectAttachment>	DressShoes_White
 
 <Object> 			SurvivorF_Keiko
-<ObjectPosition>	9579.8,    96.694,    13908
-<ObjectOrientation>	180,  0,			0
+<ObjectPosition>	9579.8    96.694    13908 
+<ObjectOrientation>	-23,  0,			0
 <ObjectAttachment>	Wrench
 <ObjectAttachment>	SledgeHammer
 <ObjectAttachment>	WorkingGloves_Brown
@@ -351,8 +350,8 @@
 <ObjectAttachment>	WorkingBoots_Grey
 
 <Object> 			SurvivorM_Seth
-<ObjectPosition>	9595.4,    96.389,    13906
-<ObjectOrientation>	-100,  0,			0
+<ObjectPosition>	9595.4    96.389    13906
+<ObjectOrientation>	70,  0,			0
 <ObjectAttachment>	FirefighterAxe
 <ObjectAttachment>	SVD
 <ObjectAttachment>	PSO1Optic
@@ -371,8 +370,8 @@
 <ObjectAttachment>	AliceBag_Camo
 
 <Object> 			SurvivorM_Taiki
-<ObjectPosition>	9596.2,    96.389,    13904
-<ObjectOrientation>	-100, 0,			0
+<ObjectPosition>	9596.2    96.389    13904
+<ObjectOrientation>	70, 0,			0
 <ObjectAttachment>	Mag_STANAG_30Rnd
 <ObjectAttachment>	SportGlasses_Orange
 <ObjectAttachment>	BaseballCap_Camo
@@ -383,16 +382,16 @@
 <ObjectAttachment>	AssaultBag_Ttsko
 
 <Object> 			SurvivorF_Frida
-<ObjectPosition>	9574.4,    96.478,    13906
-<ObjectOrientation> 180,   0,			0
+<ObjectPosition>	9574.4    96.478    13906
+<ObjectOrientation> -23,   0,			0
 <ObjectAttachment>	ThickFramesGlasses
 <ObjectAttachment>	WomanSuit_Black
 <ObjectAttachment>	SlacksPants_Black
 <ObjectAttachment>	DressShoes_Black
 
 <Object> 			SurvivorM_Peter
-<ObjectPosition>   9600.843750, 94.166245, 13914.614258
-<ObjectOrientation>	180,     0,			0
+<ObjectPosition>    9598.3    Z=93.989    13898
+<ObjectOrientation>	-20,     0,			0
 <ObjectAttachment>	LugWrench
 <ObjectAttachment>	WorkingGloves_Black
 <ObjectAttachment>	ReflexVest
@@ -400,7 +399,7 @@
 <ObjectAttachment>	JumpsuitPants_Blue
 <ObjectAttachment>	HikingBootsLow_Blue
 
-// Black Market NWAF
+// Black Market
 
 <Object> 			SurvivorM_Taiki
 <ObjectPosition>	4616.609863, 343.010986, 10149.099609
@@ -411,16 +410,6 @@
 <ObjectAttachment>  LTK_BDU_Jacket
 <ObjectAttachment>	TTSKOBoots
 
-
-// Black Market NEAF
-<Object> 			SurvivorM_Taiki
-<ObjectPosition>	12073.498047, 147.302124, 12617.390625
-<ObjectOrientation>	-50, 0,			0
-<ObjectAttachment>	Helmet_Sobr
-<ObjectAttachment>	JuggerVest_black
-<ObjectAttachment>	LTK_BDU_Pants
-<ObjectAttachment>  LTK_BDU_Jacket
-<ObjectAttachment>	TTSKOBoots
 
 //<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
 <FileEnd>												// This has to be on the End of this File and is very importand!
