@@ -19,7 +19,8 @@ void main()
 
 	// less rain
 	Weather weather = g_Game.GetWeather();
-
+	weather.MissionWeather(false);
+ 
     weather.GetOvercast().SetLimits(0.0, 0.0);
     weather.GetRain().SetLimits(0.0, 0.0);
     weather.GetFog().SetLimits(0.0, 0.0);
