@@ -400,6 +400,20 @@
                     ]
                 },
                 {
+                    "LootName": "A2LRRAWM",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "A2LRRAWM_Magazine",
+                            "ProbAttachToSpawn": 1.0
+                        },
+                        {
+                            "AttachName": "HuntingOptic",
+                            "ProbAttachToSpawn": 1.0
+                        }
+                    ]
+                },
+                {
                     "LootName": "ToxicCure",
                     "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": []
