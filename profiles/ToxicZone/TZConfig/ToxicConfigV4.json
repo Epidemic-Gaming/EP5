@@ -84,7 +84,7 @@
             ],
             "ParticlesPosition": [
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         13446,
                         0, 
@@ -92,7 +92,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         13491, 
                         0,
@@ -100,7 +100,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         13427, 
                         0,
@@ -346,7 +346,7 @@
             ],
             "ParticlesPosition": [
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1647.65,
                         451.73,
@@ -354,7 +354,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1660.05,
                         451.753,
@@ -362,7 +362,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1811.86,
                         449.522,
@@ -370,7 +370,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1482.53,
                         462.749,
@@ -378,7 +378,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1558.28,
                         452.77,
@@ -386,7 +386,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1764.74,
                         450.321,
@@ -394,7 +394,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1721.75,
                         445.441,
@@ -402,7 +402,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1471.98,
                         473.017,
@@ -410,7 +410,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1647.9,
                         451.227,
@@ -418,7 +418,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1870.52,
                         432.153,
@@ -426,7 +426,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1740.96,
                         433.674,
@@ -434,7 +434,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1510.25,
                         439.792,
@@ -442,7 +442,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1402.81,
                         449.133,
@@ -450,7 +450,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1340.24,
                         463.933,
@@ -458,7 +458,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1264.25,
                         462.462,
@@ -466,7 +466,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1058.68,
                         470.138,
@@ -474,7 +474,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1635.71,
                         443.326,
@@ -482,7 +482,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1534.73,
                         455.119,
@@ -490,7 +490,7 @@
                     ]
                 },
                 {
-                    "NName": "MustardSmoke",
+                    "NName": "PurpleSmoke",
                     "PPos": [
                         1509.31,
                         456.668,
@@ -524,7 +524,7 @@
             "Speed": 30,
             "norme": 6379,
             "IsOnlyGasMask": 1,
-            "ParticleName": "MustardSmokeLong"
+            "ParticleName": "PurpleSmokeLong"
         }
     ],
     "AdminUID": [

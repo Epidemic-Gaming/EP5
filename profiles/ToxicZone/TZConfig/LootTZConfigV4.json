@@ -6,24 +6,20 @@
             "Name": "Army1",
             "Loots": [
                 {
-                    "LootName": "SR25_Black",
+                    "LootName": "PirulinSR25_PirulaCamo",
                     "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": [
                         {
-                            "AttachName": "SR25_Magazine",
+                            "AttachName": "mag_psr25_20rnd",
                             "ProbAttachToSpawn": 0.6
                         },
                         {
-                            "AttachName": "SR25_Magazine_Extendo",
+                            "AttachName": "M4_Suppressor",
                             "ProbAttachToSpawn": 0.5
                         },
                         {
                             "AttachName": "ACOGOptic",
                             "ProbAttachToSpawn": 0.6
-                        },
-                        {
-                            "AttachName": "SR25_Suppressor",
-                            "ProbAttachToSpawn": 0.5
                         }
                     ]
                 },
@@ -72,46 +68,74 @@
                     ]
                 },
                 {
-                    "LootName": "SR25_Green",
+                    "LootName": "PirulinSR25_DpcuCamo",
                     "ProbToSpawn": 1.0,
                     "AttachmentsToLoot": [
                         {
-                            "AttachName": "SR25_Magazine",
+                            "AttachName": "mag_psr25_20rnd",
                             "ProbAttachToSpawn": 0.6
                         },
                         {
-                            "AttachName": "SR25_Magazine_Extendo",
+                            "AttachName": "M4_Suppressor",
                             "ProbAttachToSpawn": 0.5
                         },
                         {
                             "AttachName": "ACOGOptic",
                             "ProbAttachToSpawn": 0.6
-                        },
-                        {
-                            "AttachName": "SR25_Suppressor",
-                            "ProbAttachToSpawn": 0.5
                         }
                     ]
                 },
                 {
-                    "LootName": "SR25_Tan",
-                    "ProbToSpawn": 1.0,
+                    "LootName": "PirulinSR25_BlueCamo",
+                    "ProbToSpawn": 0.8,
                     "AttachmentsToLoot": [
                         {
-                            "AttachName": "SR25_Magazine",
+                            "AttachName": "mag_psr25_20rnd",
                             "ProbAttachToSpawn": 0.6
                         },
                         {
-                            "AttachName": "SR25_Magazine_Extendo",
+                            "AttachName": "M4_Suppressor",
                             "ProbAttachToSpawn": 0.5
                         },
                         {
                             "AttachName": "ACOGOptic",
                             "ProbAttachToSpawn": 0.6
+                        }
+                    ]
+                },
+                {
+                    "LootName": "PirulinSR25",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "mag_psr25_20rnd",
+                            "ProbAttachToSpawn": 0.6
                         },
                         {
-                            "AttachName": "SR25_Suppressor",
+                            "AttachName": "M4_Suppressor",
                             "ProbAttachToSpawn": 0.5
+                        },
+                        {
+                            "AttachName": "ACOGOptic",
+                            "ProbAttachToSpawn": 0.6
+                        }
+                    ]
+                },
+                {
+                    "LootName": "PirulinSR25_RedCamo",
+                    "ProbToSpawn": 0.6,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "mag_psr25_20rnd",
+                            "ProbAttachToSpawn": 0.6
+                        },
+                        {
+                            "AttachName": "M4_Suppressor",
+                            "ProbAttachToSpawn": 0.5
+                        },
+                        {
+                            "AttachName": "ACOGOptic",
+                            "ProbAttachToSpawn": 0.6
                         }
                     ]
                 },
@@ -371,6 +395,20 @@
                         },
                         {
                             "AttachName": "AK_Suppressor",
+                            "ProbAttachToSpawn": 1.0
+                        }
+                    ]
+                },
+                {
+                    "LootName": "A2LRRAWM",
+                    "ProbToSpawn": 1.0,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "A2LRRAWM_Magazine",
+                            "ProbAttachToSpawn": 1.0
+                        },
+                        {
+                            "AttachName": "HuntingOptic",
                             "ProbAttachToSpawn": 1.0
                         }
                     ]

@@ -3430,8 +3430,14 @@
 		A2WM110_black,				W,		40000,		20000
 		MassM110,					W,		40000,		20000
 		PirulinSR25,				W,		40000,		20000
-		SR25_Black,					W,		40000,		20000
-		SR25_Green,					W,		40000,		20000
+		PirulinSR25_RedCamo,		w,		50000,		20000
+		PirulinSR25_BlueCamo,		w,		50000,		20000
+		PirulinSR25_PirulaCamo,		w,		50000,		20000
+		PirulinSR25_DpcuCamo,		w,		50000,		20000
+		PirulinSR25_WLCamo,			W,		50000,		20000
+		SR25_Black,					W,		-1,			30000
+		SR25_Green,					W,		-1,			30000
+		SR25_Tan,					W,		-1,			30000
 		
 	<Category> DMR Mags
 		M14_Magazine,				20,		2000,		1000
@@ -3856,8 +3862,14 @@
 		A2WM110_black,				W,		40000,		20000
 		MassM110,					W,		40000,		20000
 		PirulinSR25,				W,		40000,		20000
-		SR25_Black,					W,		40000,		20000
-		SR25_Green,					W,		40000,		20000
+		PirulinSR25_RedCamo,		w,		50000,		20000
+		PirulinSR25_BlueCamo,		w,		50000,		20000
+		PirulinSR25_PirulaCamo,		w,		50000,		20000
+		PirulinSR25_DpcuCamo,		w,		50000,		20000
+		PirulinSR25_WLCamo,			W,		50000,		20000
+		SR25_Black,					W,		-1,			30000
+		SR25_Green,					W,		-1,			30000
+		SR25_Tan,					W,		-1,			30000
 		
 	<Category> DMR Mags
 		M14_Magazine,				20,		2000,		1000
