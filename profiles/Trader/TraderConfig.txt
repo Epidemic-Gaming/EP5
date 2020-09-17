@@ -1438,6 +1438,7 @@
 		TupacShirtblack,		*,		500,	250
 		//SixnineFNFShirtBlack,	*,		500,	250
 
+
 	<Category> LtK Clothing
 		LtK_BDU_Jacket,					*,		500,	250
 		LtK_BDU_Pants,					*,		500,	250
@@ -3480,6 +3481,10 @@
 		Hell_M700R,					W,		100000,		50000
 		M200,						W,		150000,		50000
 		ussr_m200_black,			W,		200000,		75000
+		M200ZeroOptic,				*,		15000,		7500
+		M200ZeroOptic_Black,		*,		20000,		10000
+		M200Suppressor,				*,		50000,		25000
+		M200Suppressor_black,		*,		60000,		30000
 		m300BL,						W,		100000,		50000
 		M98B,						W,		100000,		20000
 		FD338,						W,		50000,		20000
@@ -3912,6 +3917,10 @@
 		Hell_M700R,					W,		100000,		50000
 		M200,						W,		150000,		50000
 		ussr_m200_black,			W,		200000,		75000
+		M200ZeroOptic,				*,		15000,		7500
+		M200ZeroOptic_Black,		*,		20000,		10000
+		M200Suppressor,				*,		50000,		25000
+		M200Suppressor_black,		*,		60000,		30000
 		m300BL,						W,		100000,		50000
 		M98B,						W,		100000,		20000
 		FD338,						W,		50000,		20000
