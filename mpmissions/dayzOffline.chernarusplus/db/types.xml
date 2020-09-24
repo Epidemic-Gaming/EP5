@@ -16177,7 +16177,7 @@
         <value name="Tier4" />
     </type>
     <type name="A2M107">
-        <nominal>7</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -16198,7 +16198,7 @@
         <value name="Tier4"/>
     </type>
     <type name="A2M107_Magazine">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -17141,18 +17141,6 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-    <type name="Hell_M82">
-        <nominal>3</nominal>
-        <lifetime>10800</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-    </type>
     <type name="Hell_MAS36">
         <nominal>30</nominal>
         <lifetime>7200</lifetime>
@@ -17637,18 +17625,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Police"/>
-    </type>
-    <type name="Hell_Mag_M82_10Rnd">
-        <nominal>10</nominal>
-        <lifetime>10800</lifetime>
-        <restock>3600</restock>
-        <min>5</min>
-        <quantmin>10</quantmin>
-        <quantmax>60</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
     </type>
     <type name="Hell_Mag_Drum_60Rnd">
         <nominal>5</nominal>
@@ -23333,7 +23309,18 @@
         <usage name="Industrial"/>
     </type>
 	<type name="Massm300">
-        <nominal>1</nominal>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>43200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<usage name="Military"/>
+    </type>
+    <type name="m300BL">
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>43200</restock>
         <min>0</min>
@@ -23355,7 +23342,7 @@
 		<usage name="Military"/>
     </type>
 	<type name="MassKivaari">
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>43200</restock>
         <min>0</min>
