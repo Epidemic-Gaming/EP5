@@ -30,8 +30,7 @@ class Epidemic
 		itemBck = player.FindAttachmentBySlotName("Back");
 		itemWst = player.FindAttachmentBySlotName("Hips");
 
-		player.GetInventory().CreateInInventory("CivilianBelt");
-		player.GetInventory().CreateInInventory("CombatBoots_Black");
+		player.GetInventory().CreateInInventory("Breezy_Boost220_Emerald");
 
 
 		itemEnt = itemTop.GetInventory().CreateInInventory("BandageDressing");

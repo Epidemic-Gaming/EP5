@@ -371,32 +371,138 @@
             "Zombies": 10,
             "Radius": 50,
             "DropAccuracy": 100
+        },
+        {
+            "Title": "Zvir",
+            "Location": "Country",
+            "DropType": "RANDOM",
+            "X": 463,
+            "Z": 5521,
+            "Zombies": 5,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Sinystok",
+            "Location": "Country",
+            "DropType": "RANDOM",
+            "X": 1403,
+            "Z": 11371,
+            "Zombies": 5,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Biathalon Arena",
+            "Location": "Country",
+            "DropType": "RANDOM",
+            "X": 443,
+            "Z": 11177,
+            "Zombies": 7,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Ski Resort",
+            "Location": "Country",
+            "DropType": "RANDOM",
+            "X": 281,
+            "Z": 11758,
+            "Zombies": 7,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Tikhiyzaliv",
+            "Location": "Military",
+            "DropType": "RANDOM",
+            "X": 631,
+            "Z": 2042,
+            "Zombies": 10,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Radio Zenit",
+            "Location": "Military",
+            "DropType": "RANDOM",
+            "X": 7891,
+            "Z": 9483,
+            "Zombies": 12,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Polyana",
+            "Location": "Country",
+            "DropType": "RANDOM",
+            "X": 10742,
+            "Z": 8710,
+            "Zombies": 10,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Kalinovka",
+            "Location": "Country",
+            "DropType": "RANDOM",
+            "X": 7863,
+            "Z": 13288,
+            "Zombies": 10,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Ratnoye",
+            "Location": "Country",
+            "DropType": "RANDOM",
+            "X": 6238,
+            "Z": 13042,
+            "Zombies": 10,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Novy Lug",
+            "Location": "Military",
+            "DropType": "RANDOM",
+            "X": 9633,
+            "Z": 11479,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
         }
     ],
     "DropTypes": [
         {
             "Title": "Military Weapons",
             "Container": "AirdropContainer",
-            "Quantity": 20,
+            "Quantity": 15,
             "AddFlare": 10,
             "SpawnMin": 1,
             "SpawnMax": 3,
             "SpawnOffset": 0.05,
             "Items": [
                 "M4A1",
+                "SA58",
+                "SA58_Magazine",
                 "Mag_STANAG_30Rnd",
                 "RaidLockpick",
-                "m300BL",
-                "Massm300mag",
+                "RaidHacksaw",
+                "MSFC_Winchester70_MATRIX",
                 "HuntingOptic",
                 "ACOGOptic",
                 "PN23Optic",
                 "MassB52",
+                "MSFC_AKM_Golden",
                 "AK_Suppressor",
                 "Mag_AKM_75Rnd",
                 "Mag_AKM_30Rnd",
                 "MassHeavyPlateVest_Black",
-                "MassHeavyPlateVest_ODG"
+                "MassHeavyPlateVest_ODG",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_762x39_20Rnd",
+                "AmmoBox_556x45_20Rnd"
             ]
         },
         {
@@ -457,9 +563,49 @@
                 "M4_Suppressor",
                 "MSFC_AK_ALFA",
                 "Mag_AKM_30Rnd",
+                "Mosin9130",
+                "Mosin9130_Black",
+                "Mosin9130_Green",
+                "Mosin9130_Camo",
+                "AmmoBox_762x54_20Rnd",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_762x39_20Rnd",
+                "AmmoBox_556x45_20Rnd",
+                "PUScopeOptic"
+            ]
+        },
+        {
+            "Title": "Base Building",
+            "Container": "AirdropContainer_Blue",
+            "Quantity": 14,
+            "AddFlare": 10,
+            "SpawnMin": 1,
+            "SpawnMax": 3,
+            "SpawnOffset": 0.05,
+            "Items": [
                 "Locker",
+                "OP_StorageCabinetBlack",
                 "CodeLock",
-                "OPLock"
+                "OPLock",
+                "ZT_CarTent_Camo_BLACKCAM",
+                "ZT_CarTent_Camo_WOODLAND",
+                "ZT_LargeTent_Camo_BLACKCAM",
+                "ZT_LargeTent_Camo_WOODLAND",
+                "WoodenPlank",
+                "NailBox",
+                "ZT_MediumTent_Camo_BLACKCAM",
+                "ZT_MediumTent_Camo_WOODLAND",
+                "PartyTent",
+                "BarrelHoles_Blue",
+                "BarrelHoles_Green",
+                "Skyline_Kit_Shelf",
+                "Skyline_Kit_StorageBox",
+                "Skyline_Kit_Gun_Rack",
+                "Skyline_Kit_Gun_Cabinet",
+                "BBP_Blueprint",
+                "BBP_T3_GateKit",
+                "BBP_T2_GateKit",
+                "BBP_T1_GateKit"
             ]
         }
     ]

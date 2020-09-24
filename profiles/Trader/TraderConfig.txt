@@ -324,22 +324,22 @@
 		Bear_White,				*,		5,		1
 
 	<Category> Base Furniture
-   		Skyline_Kit_Gun_Cabinet,     *,      2500,   800
-    	Skyline_Kit_Gun_Rack,       *,      6000,   2000
-    	Skyline_Kit_Fridge,         *,      800,    250
-    	Skyline_Kit_Shelf,          *,      2500,   800
-    	Skyline_Kit_StorageBox,     *,      6000,   2000
-		Skyline_StorageBox_Tag_Ammo,		*,	100, 	50
-		Skyline_StorageBox_Tag_Weapons,		*,	100,	50
-		Skyline_StorageBox_Tag_Medical, 	*,	100,	50
-		Skyline_StorageBox_Tag_Component, 	*, 	100, 50
-		Skyline_StorageBox_Tag_Tools, 		*, 	100, 50
-		Skyline_StorageBox_Tag_Magazines, 	*, 	100, 50
-		Locker,						*,		3000,	1500
-		OPLock,						*,		5000,	2500
+   		Skyline_Kit_Gun_Cabinet,     *,      10000,   5000
+    	Skyline_Kit_Gun_Rack,       *,      16000,   8000
+    	Skyline_Kit_Fridge,         *,      1800,    900
+    	Skyline_Kit_Shelf,          *,      12500,   6250
+    	Skyline_Kit_StorageBox,     *,      16000,   8000
+		Skyline_StorageBox_Tag_Ammo,		*,	500, 	150
+		Skyline_StorageBox_Tag_Weapons,		*,	500,	150
+		Skyline_StorageBox_Tag_Medical, 	*,	500,	150
+		Skyline_StorageBox_Tag_Component, 	*, 	500, 150
+		Skyline_StorageBox_Tag_Tools, 		*, 	500, 150
+		Skyline_StorageBox_Tag_Magazines, 	*, 	500, 150
+		Locker,						*,		5000,	2500
+		OPLock,						*,		8000,	4500
 		hardigg2_Mung,				*,		6500,	2250
-		gunwall_kit_mung,           *,      1000,   400
-		gunwall_metal_kit_mung,     *,      1000,   400	
+		gunwall_kit_mung,           *,      6000,   3000
+		gunwall_metal_kit_mung,     *,      6000,   3000	
 		ballgrill_mung,			    *,		 300,	150
     	makeshifttent_mung,			*,		 800,	350
 
@@ -1425,6 +1425,8 @@
 		INOG_AB,				*,		250,		125
 		TA_AB,					*,		250,		125
 		TA_ABD,					*,		250,		125
+		EXTN_AB,				*,		250,		125
+		ODIN_AB,				*,		250,		125
 
 	<Category> Hot Topic
 		LedZepShirtBlack,		*,		500,	250
@@ -1472,19 +1474,12 @@
 		Galaxy_Dark_Radio_Pants,	*,  500,	250
 		GalaxyDarkRadioPlate,		*,	5000,	1500
 
-	<Category> TA Clothing
-		TA_Jacket,					*, 500, 250
-		TA_Pants,					*, 500, 250
-		TA_Jacket_White_Stripe,		*, 500, 250
-		TA_Pants_White_Stripe,		*, 500, 250
-		TAPlateCarrier,				*, 5000, 1500
-
 	<Category> TSF Clothing
-		TSF_Jacket,					*, 500, 250
-		TSF_Pants,					*, 500, 250
-		TSF_Gloves,					*, 500, 250
-		TSF_Boots,					*, 500, 250
-		TSF_Hood,					*, 500, 250
+		TSF_Jacket,					*, 10000, 2500
+		TSF_Pants,					*, 10000, 2500
+		TSF_Gloves,					*, 2500, 1550
+		TSF_Boots,					*, 2500, 1550
+		TSF_Hood,					*, 2500, 1550
 		TSFPlateCarrier, 			*, 5000, 1500
 
 	<Category> RSA Clothing
@@ -1493,6 +1488,11 @@
 		RSA_Dark_Jacket,			*, 500, 250
 		RSA_Dark_Pants,				*, 500, 250
 		RSAPlateCarrier,			*, 5000, 1500
+
+	<Category> EXTN Clothing
+		EXTN_Jacket,				*,	500, 250
+		EXTN_Pants,					*,	500, 250
+		EXTNPlateCarrier,			*,  5000, 250
 
 	<Category> Gloves
 		SurgicalGloves_LightBlue,*,		5,		1
@@ -1509,6 +1509,7 @@
 		OMNOGloves_Gray,		*,		40,		12
 		OMNOGloves_Brown,		*,		40,		12
 	    Fingerless_Gloves,		*,		50,		25
+		Gloves_skeleton,		*,		150,	75
 
 
 	<Category> Hats & Caps
@@ -1946,6 +1947,25 @@
 		MilitaryBoots_Beige,	*,		110,	35
 		MilitaryBoots_Brown,	*,		110,	35
 		MilitaryBoots_Black,	*,		110,	35
+		Breezy_Boost220_Titanium, *, 	2000,	1000
+		Breezy_Boost220_Smokey, *,		2000,	1000
+		Breezy_Boost220_Coal,	*,		2000,	1000
+		Breezy_Boost220_Vermilion, *,	2000,	1000
+		Breezy_Boost220_Aqua, *,	2000,	1000
+		Breezy_Boost220_Olive, *,	2000,	1000
+		Breezy_Boost220_Oreo, *,	2000,	1000
+		Breezy_Boost220_Waterway, *,	2000,	1000
+		Breezy_Boost220_Ultimatum, *, 2000,	1000
+		Breezy_Boost220_Lilac, *, 2000, 1000
+		Breezy_Boost220_Thrash, *, 2000, 1000
+		Breezy_Boost220_Emerald, *, 2000, 1000
+		Breezy_Boost220_Blossom, *, 2000, 1000
+		Breezy_Boost220_Lavender, *, 2000, 1000
+		Breezy_Boost220_Nitro, *, 2000, 1000
+		Breezy_Boost220_Candy, *, 2000, 1000
+		Breezy_Boost220_Clay, *, 2000, 1000
+		Breezy_Boost220_Woodland, *, 2000, 1000
+		Breezy_Boost220_Floral, *, 2000, 1000
 
 
 	
@@ -3374,10 +3394,11 @@
 		A2mk17_s,					W,		 25000,		5000
 		MSFC_SCAR17,				W,		 25000,		5000
 		FAL,						W,		 15000,		7500
-		FN_SCAR_Black,				W,		 25000,		10000
-		FN_SCAR_H,					W,		 25000,		10000
-        Hell_HoneyBadger,		    W,		    21000,	    7500
-        Hell_HoneyBadger_BattleScars,	W,		21000,		7500
+		FN_SCAR_Black,				W,		 35000,		12000
+		FN_SCAR_H,					W,		 35000,		12000
+        Hell_HoneyBadger,		    W,		    50000,	    15000
+        Hell_HoneyBadger_BattleScars,	W,		50000,		15000
+		SA58,						W,		50000,		20000		
 
 
 	<Category> AR Mags
@@ -3407,6 +3428,8 @@
 		//Asval_Magazine_Extended		50,		1500,		750
 		Mag_AK74_30Rnd,				30,		500,		250
 		Mag_AKM_Drum75Rnd,			75,		2500,		1000
+		SA58_Magazine, *,   3000,   150
+        SA58_Drum_Magazine,   *,   5000,   250
 
 	<Category> LMGs
 		A2M240,						W,			50000,			10000
@@ -3813,10 +3836,11 @@
 		A2mk17_s,					W,		 25000,		5000
 		MSFC_SCAR17,				W,		 25000,		5000
 		FAL,						W,		 15000,		7500
-		FN_SCAR_Black,				W,		 25000,		10000
-		FN_SCAR_H,					W,		 25000,		10000
-        Hell_HoneyBadger,		    W,		 21000,	    7500
-        Hell_HoneyBadger_BattleScars,	W,	 21000,		7500
+		FN_SCAR_Black,				W,		 35000,		12000
+		FN_SCAR_H,					W,		 35000,		12000
+        Hell_HoneyBadger,		    W,		 50000,	    15000
+		Hell_HoneyBadger_BattleScars,	W,	 50000,		15000
+		SA58,						W,		 50000,		20000
 
 	<Category> AR Mags
 		Mag_SCAR_H_20Rnd,				20,		2500,		2000
@@ -3845,6 +3869,8 @@
 		//Asval_Magazine_Extended		50,		1500,		750
 		Mag_AK74_30Rnd,				30,		500,		250
 		Mag_AKM_Drum75Rnd,			75,		1000,		500
+		SA58_Magazine, *,   3000,   150
+        SA58_Drum_Magazine,   *,   5000,   250
 
 	<Category> LMGs
 		A2M240,						W,			50000,			10000
