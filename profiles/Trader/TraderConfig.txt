@@ -191,7 +191,7 @@
 		BearTrap,				*,		10000,		1000
 	
 	<Category> Hardware Supplies
-		CodeLock,				*,		30000,	5000
+		CodeLock,				*,		1000000,	5000
 		Paper,					*,		1,		0
 		Pen_Blue,				*,		2,		1
 		Rope,					*,		4,		1
