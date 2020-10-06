@@ -2034,7 +2034,7 @@
 	</type>
 	<type name="GiftBox_Medium_1">
 		<cargo chance="0.10">
-			<item name="CombinationLock" chance="1.00" />
+			<item name="CombinationLock" chance="0.00" />
 		</cargo>
 		<cargo chance="0.50">
 			<item name="PersonalRadio" chance="1.00" />
@@ -2079,7 +2079,7 @@
 	</type>
 	<type name="GiftBox_Medium_2">
 		<cargo chance="0.10">
-			<item name="CombinationLock" chance="1.00" />
+			<item name="CombinationLock" chance="0.00" />
 		</cargo>
 		<cargo chance="0.50">
 			<item name="PersonalRadio" chance="1.00" />
@@ -2134,7 +2134,7 @@
 	</type>
 	<type name="GiftBox_Medium_3">
 		<cargo chance="0.10">
-			<item name="CombinationLock" chance="1.00" />
+			<item name="CombinationLock" chance="0.00" />
 		</cargo>
 		<cargo chance="0.50">
 			<item name="PersonalRadio" chance="1.00" />
@@ -2190,7 +2190,7 @@
 	</type>
 	<type name="GiftBox_Medium_4">
 		<cargo chance="0.10">
-			<item name="CombinationLock" chance="1.00" />
+			<item name="CombinationLock" chance="0.00" />
 		</cargo>
 		<cargo chance="0.50">
 			<item name="PersonalRadio" chance="1.00" />
@@ -2250,7 +2250,7 @@
 			<item name="CZ61" chance="0.40" />
 		</cargo>
 		<cargo chance="0.10">
-			<item name="CombinationLock" chance="1.00" />
+			<item name="CombinationLock" chance="0.00" />
 		</cargo>
 		<cargo chance="0.50">
 			<item name="PersonalRadio" chance="1.00" />
@@ -2301,7 +2301,7 @@
 			<item name="CZ61" chance="0.40" />
 		</cargo>
 		<cargo chance="0.10">
-			<item name="CombinationLock" chance="1.00" />
+			<item name="CombinationLock" chance="0.00" />
 		</cargo>
 		<cargo chance="0.50">
 			<item name="PersonalRadio" chance="1.00" />
@@ -2370,7 +2370,7 @@
 			<item name="CZ61" chance="0.40" />
 		</cargo>
 		<cargo chance="0.10">
-			<item name="CombinationLock" chance="1.00" />
+			<item name="CombinationLock" chance="0.00" />
 		</cargo>
 		<cargo chance="0.50">
 			<item name="PersonalRadio" chance="1.00" />
@@ -2439,7 +2439,7 @@
 			<item name="CZ61" chance="0.40" />
 		</cargo>
 		<cargo chance="0.10">
-			<item name="CombinationLock" chance="1.00" />
+			<item name="CombinationLock" chance="0.00" />
 		</cargo>
 		<cargo chance="0.50">
 			<item name="PersonalRadio" chance="1.00" />
